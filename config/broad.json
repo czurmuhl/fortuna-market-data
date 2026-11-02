@@ -1,0 +1,13 @@
+{
+  "start": "2020-01-01",
+  "end": "2026-10-30",
+  "feed": "iex",
+  "symbols": [],
+  "exchanges": ["NYSE", "NASDAQ", "ARCA", "NYSEARCA", "AMEX", "BATS"],
+  "adjustments": ["raw", "split"],
+  "requests_per_minute": 120,
+  "max_requests": 10000,
+  "max_symbols": 10000,
+  "batch_size": 50,
+  "overlap_days": 7
+}
